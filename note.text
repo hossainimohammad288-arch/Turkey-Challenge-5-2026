@@ -1,0 +1,16 @@
+all the models:
+-----classification (Accuracy)----
+# logistic regression : 58.269490761604324
+# decision tree classifier : 95.80892293826048
+# random forest classifier : 96.0793150067598
+# svm classifier : 47.273546642631814
+# knn classifier : 93.05993690851734
+# naive bayes classifier : 81.20775123929698
+
+
+-----regression (MAE)-----
+# linear regression : 0.03075107653529917
+# decision tree regressor : 0.002783136547994591
+# random forest regressor : 0.0024170110860748163
+# svm regressor : 0.04107245301980853
+# knn regressor : 0.006420359621451103
